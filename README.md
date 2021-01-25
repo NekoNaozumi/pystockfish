@@ -83,4 +83,4 @@ The option exists so that chess matches can be easily setup between non-idential
 Update Notes
 -------------
 * Version 0.1.5
-* Pytockfish now complies with both: *Python2* and *Python3*.
+* Pystockfish now complies with both: *Python2* and *Python3*.
